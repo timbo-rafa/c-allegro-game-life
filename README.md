@@ -19,9 +19,9 @@ The initial pattern constitutes the seed of the system. The first generation is 
 sudo apt-get install liballegro4.4 liballegro4-dev
 ```
 
-Allegro *4* is required. You can download it [here](https://liballeg.org/old.html)
+Allegro *4* is required. You can download it [here](https://liballeg.org/old.html).
 
-### Make
+##### Make
 
 ```
 make
